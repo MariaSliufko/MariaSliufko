@@ -5,3 +5,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-sliufko-b8773749/)
 
 
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaSliufko&theme=cobalt)](https://git.io/streak-stats)
+
+
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaSliufko&theme=radical)](https://git.io/streak-stats)  --->
