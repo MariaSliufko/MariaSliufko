@@ -1,8 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71AF2&lines=Hi%2C+my+name+is+Maria+Sliufko+👋)](https://git.io/typing-svg)
 
 - 🔭 I’m currently studying Object Oriented Development.
-- 🌱 I recently finished taking the course "The Complete 2022 Web Development Bootcamp" on Udemy.
-- 🌱 I’m currently taking the course "Learn C# By Building Applications" on Udemy.
+- 🌱 I finished taking the course "The Complete 2022 Web Development Bootcamp" and "Learn C# By Building Applications" on Udemy during summer.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/maria-sliufko-b8773749"> &nbsp; <img align="" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Maria Sliufko| LinkedIn" width="21px"/></a> 
  
 
