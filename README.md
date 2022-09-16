@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Object Oriented Development.
 - 🌱 I finished taking the course "The Complete 2022 Web Development Bootcamp" and "Learn C# By Building Applications" on Udemy during summer.
-- :briefcase: I’m currently an Intern at Sigma Technology.
+- :briefcase: I’m currently an Intern at Sigma Technology Origo.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/maria-sliufko-b8773749"> &nbsp; <img align="" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Maria Sliufko| LinkedIn" width="21px"/></a> 
  
 
