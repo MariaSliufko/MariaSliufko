@@ -1,4 +1,8 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71AF2&lines=Hi%2C+my+name+is+Maria+Sliufko+👋)](https://git.io/typing-svg)
+
+![Blue   Black Modern Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/89866298/195985522-259ab4b3-3c6a-4f60-8f66-075bd4c76a55.png)
+
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71AF2&lines=Hi%2C+welcome+to+my+page+👋)](https://git.io/typing-svg)
 
 - 🔭 I’m currently studying Object Oriented Development.
 - 🌱 I finished taking the course "The Complete 2022 Web Development Bootcamp" and "Learn C# By Building Applications" on Udemy during summer.
